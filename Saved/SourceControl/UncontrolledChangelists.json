@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/NewMap.umap",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/NewMap.umap",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/NewMap.umap",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/ThirdPerson/Maps/NewBlueprint.uasset",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/NewFolder/Metal.uasset",
+				"C:/Users/al7km/OneDrive/Documents/Unreal Projects/Untitled/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
